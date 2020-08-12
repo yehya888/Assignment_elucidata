@@ -1,0 +1,32 @@
+# packages in environment at C:\Users\Mohamed\Anaconda3\envs\my_cmapPy_env:
+#
+# Name                    Version                   Build  Channel
+backports-functools-lru-cache 1.6.1                    pypi_0    pypi
+backports-shutil-get-terminal-size 1.0.0                    pypi_0    pypi
+ca-certificates           2020.6.24                     0  
+certifi                   2019.11.28               py27_0  
+chardet                   3.0.4                    pypi_0    pypi
+cycler                    0.10.0                   pypi_0    pypi
+decorator                 4.4.2                    pypi_0    pypi
+enum34                    1.1.10                   pypi_0    pypi
+futures                   3.3.0                    pypi_0    pypi
+ipykernel                 4.10.1                   pypi_0    pypi
+ipython-genutils          0.2.0                    pypi_0    pypi
+jupyter-client            5.3.5                    pypi_0    pypi
+jupyter-core              4.6.3                    pypi_0    pypi
+kiwisolver                1.1.0                    pypi_0    pypi
+pickleshare               0.7.5                    pypi_0    pypi
+pygments                  2.5.2                    pypi_0    pypi
+python-dateutil           2.8.1                    pypi_0    pypi
+requests                  2.24.0                   pypi_0    pypi
+scikit-learn              0.20.4                   pypi_0    pypi
+setuptools                44.0.0                   py27_0  
+simplegeneric             0.8.1                    pypi_0    pypi
+singledispatch            3.4.0.3                  pypi_0    pypi
+sklearn                   0.0                      pypi_0    pypi
+sqlite                    3.30.1               h0c8e037_0  
+traitlets                 4.3.3                    pypi_0    pypi
+vs2008_runtime            9.00.30729.1         hfaea7d5_1  
+wheel                     0.33.6                   py27_0  
+win-unicode-console       0.5                      pypi_0    pypi
+wincertstore              0.2              py27hf04cefb_0  
